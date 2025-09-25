@@ -1,0 +1,28 @@
+.right {
+  margin-right: 19px;
+}
+
+.left {
+  margin-left: 19px;
+}
+
+.rules {
+  border: 2px solid rgba(255, 255, 255, 0.452);
+  background-color: initial;
+  padding: 8px 32px;
+  transition: all 0.3s;
+  margin-bottom: 20px;
+}
+
+.rules:hover {
+  background-color: white;
+  border-color: white;
+  color: rgba(29, 52, 84);
+}
+
+@media (max-width:777px) {
+  .right {
+    margin-right: 0;
+  }
+}
+

@@ -1,0 +1,12 @@
+.picked {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.picked h3 {
+    z-index: 1;
+}
+

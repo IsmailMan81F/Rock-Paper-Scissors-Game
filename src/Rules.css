@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  padding-bottom: 10px;
+
+  color: rgba(29, 52, 84);
+}
+
+.navbar h2 {
+  font-size: 20px;
+}
+
+.rules-container {
+  border-radius: 10px;
+  background-color: white;
+  z-index: 9999;
+}
+
+.exit-container {
+  cursor: pointer;
+  display: flex;
+}
+
+.rules-image,
+.exit-container {
+  transform: scale(0.8);
+}
