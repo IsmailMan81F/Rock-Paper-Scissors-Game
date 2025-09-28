@@ -10,10 +10,11 @@ import Rules from "./Rules";
 import Button from "./Button";
 
 function App() {
+
   const [show, setShow] = useState(false);
   const [choice, setChoice] = useState({ color: "", image: "", chosen: false });
-  const [score, setScore] = useState(0);
   const [winner, setWinner] = useState("");
+  const [score, setScore] = useState(0);
   const [computer, setComputer] = useState({ color: "", image: "" });
   const [result, setResult] = useState("");
 
