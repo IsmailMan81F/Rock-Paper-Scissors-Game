@@ -6,7 +6,7 @@ It features an exciting interactive design, vibrant color palette, and a smooth,
 
 
 
-##🚀 Features
+## 🚀 Features
 
 -  ⚡ Built entirely with React.js
 
@@ -21,7 +21,7 @@ It features an exciting interactive design, vibrant color palette, and a smooth,
 
 
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 -  React.js
 
@@ -33,7 +33,7 @@ It features an exciting interactive design, vibrant color palette, and a smooth,
 
 
 
-##🎮 How to Play
+## 🎮 How to Play
 
 -  Choose Rock, Scissors, or Paper.
 
@@ -50,10 +50,10 @@ It features an exciting interactive design, vibrant color palette, and a smooth,
 </p>
 
 
-##💻 Author
+## 💻 Author
 
-Ismail
-💬 Passionate about modern web design, interactive interfaces, and creative front-end development.
+> Ismail
+> 💬 Passionate about modern web design, interactive interfaces, and creative front-end development.
 
 
 
