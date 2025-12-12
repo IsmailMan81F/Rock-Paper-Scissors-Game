@@ -52,6 +52,7 @@ It features an exciting interactive design, vibrant color palette, and a smooth,
 
 ## 💻 Author
 
+
 > Ismail
 > 💬 Passionate about modern web design, interactive interfaces, and creative front-end development.
 
